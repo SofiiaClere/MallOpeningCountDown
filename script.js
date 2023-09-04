@@ -1,6 +1,6 @@
 function grandOpening() {
     const now = new Date();
-    const openDate = new Date("November 24 2023, 10:00");
+    const openDate = new Date("December 22, 2023, 17:00");
     const diff = openDate - now;
 
     const msInSec = 1000;
