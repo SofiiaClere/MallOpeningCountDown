@@ -3,6 +3,7 @@ body{
     background-image: url("https://cdn.glitch.global/6962e794-c18a-440f-b3b6-dc68fc1bddab/mall.jpg?v=1693789334145");
     background-repeat: no-repeat;
     background-position: center;
+    min-height:100vh;
 }
 h1{
     font-size: 50px;
